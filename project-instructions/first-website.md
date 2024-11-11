@@ -342,7 +342,7 @@ Inside of the Content `<div>` element, let's create a section where we can list 
 
   - The comment `<!-- Interests section -->`
   - Below the comment, create a `<div> </div>` element.
-  - Inside the new `<div>` element, give the list a title with the `<h3>` tag and the text `Interests`.
+mi  - Inside the new `<div>` element, give the list a title with the `<h3>` tag and the text `Interests`.
   - Create an unordered list with the `<ul>` tag and three sets of `<li>` tags nested inside
 
      <details> 
